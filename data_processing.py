@@ -1,0 +1,1 @@
+pritnt("All previous code was deleted using reset command")
